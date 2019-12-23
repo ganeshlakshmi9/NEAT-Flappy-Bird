@@ -194,4 +194,5 @@ def draw_net(config, genome, view=False, filename=None, node_names=None, show_di
 
     dot.render(filename, view=view)
 
+    
     return dot
